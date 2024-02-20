@@ -17,7 +17,7 @@
     "fountainhead-bigjq": "0.0.13",
     "fountainhead-tna": "0.1.6",
     "iconv-lite": "^0.4.24",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "level": "^4.0.0",
     "mingo": "^2.2.4",
     "mongodb": "^3.1.4",
